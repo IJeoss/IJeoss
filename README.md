@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Egor 👋
 
-<!--
-**IJeoss/IJeoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Go backend developer and Information Security student at MEPhI.
 
-Here are some ideas to get you started:
+I enjoy building backend services and understanding how they work
+under the hood — from application code to Linux, networking and containers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently focused on
+
+- Go backend development
+- REST APIs and databases
+- PostgreSQL
+- Docker and Linux
+- Computer networks
+- Algorithms and data structures
+
+### Tech
+
+**Backend:** Go  
+**Databases:** PostgreSQL  
+**Infrastructure:** Linux, Docker, Docker Compose  
+**Tools:** Git, GitHub, Bash  
+**Also familiar with:** Python, C/C++, TCP/IP, HTTP, DNS
+
+### Selected projects
+
+- **Go URL Shortener** — REST API, PostgreSQL, migrations, Docker
+- **Telegram Chat Parser** — ...
+- **Linux / DevOps Labs** — Linux administration, Bash, Docker
+
+### Education
+
+National Research Nuclear University MEPhI  
+Information Security / Critical Information Infrastructure
+
+---
+
+Currently looking for a Go Backend internship / Junior position.
